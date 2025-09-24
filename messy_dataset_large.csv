@@ -1,0 +1,16 @@
+Customer ID,Name,Gender,Age,Join Date,Country,Purchase Amount
+101,Alice ,Male,25,05-01-2020,USA,200.5
+102,bob,male,,05-02-2020,usa,150
+103,CHARLIE,F,35,,Uk,
+104,David,Female,40,10-03-2020,UK,300
+104,David,female,40,10-03-2020,,300
+105,,M,29,15-03-2020,India ,400
+,Eva,,thirty,"March 20, 2020",india,250
+106, frank,MALE,32,2020.04.01,CANADA,180.75
+107,Grace,f,,01-May-20,Canada,NaN
+108,HENRY,FEMALE,45,10-06-2020,canada ,500
+109,Ivy,m,50,June 15 2020,usa,350
+110,Jack,Male,twenty-five,20-07-2020,UK,
+110,Jack,M,30,20-07-2020,Uk,350
+111,kate ,Female ,28,,INDIA,450
+112,Leo,male,NaN,05-08-2020,India,220
